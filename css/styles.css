@@ -190,12 +190,13 @@ form img {
     }
 
     .right-section h5 {
-        width: 105%;
+        width: 100%;
     }
 
     form {
-        width: 90%;
+        width: 85%;
         margin-bottom: 30px;
+        padding: 7%;
     }
 
     form input {
