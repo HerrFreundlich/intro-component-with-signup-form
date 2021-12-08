@@ -149,7 +149,7 @@ form a {
 form img {
     display: none;
     position: absolute;
-    left: 90%;
+    left: 94%;
     bottom: 50%;
 }
 
@@ -200,7 +200,11 @@ form img {
     }
 
     form input {
-        width: 95%;
+        width: 93%;
+    }
+
+    form img {
+        left: 90%;
     }
 
 }
