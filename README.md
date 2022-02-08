@@ -1,6 +1,6 @@
 # intro-component-with-signup-form
 
-Eine Homepage mit signup Funktion und Form Validation. Die Webseite ist Responsive und Mobile Friendly.
+Eine Homepage mit Signup Funktion und Form Validation. Die Webseite ist Responsive und Mobile Friendly.
 
 Geschrieben in purem HTML, CSS und Javascipt, ohne Frameworks.
 
